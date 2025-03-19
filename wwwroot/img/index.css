@@ -1,0 +1,183 @@
+.nut-fld-helper {
+    position: absolute;
+    display: inline-block;
+}
+.nut-but-helper {
+    height: 27px;
+    border: none;
+    margin-left: 0px 1px 0px 1px;
+}
+.nut-fld-image {
+    width: 150px;
+    height: 150px;
+    borderby: 1px solid;
+}
+
+.nut-full {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.nut-close {
+    cursor: pointer;
+}
+
+.nut-close:hover {
+    color: red;
+}
+
+.nut-tile {
+    width: 100px;
+    height: 100px;
+    margin: 6px;
+    padding: 6px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    cursor: pointer;
+    display: inline-table;
+    font-family: helvetica;
+    font-size: 10pt;
+}
+
+.nut-tile:hover {
+    borderby: 2px inset;
+}
+
+.nut-tool {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    cursor: pointer;
+    display: inline-table;
+}
+
+.nut-tool:hover {
+    borderby: 1px inset;
+}
+
+.nut-dlg {
+    position: absolute;
+    padding-top: 10vh;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: rgb(255,255,255,0.5)
+}
+
+.nut-dlg-content {
+    margin: auto;
+    padding: 1px;
+    borderby: 1px outset;
+    background: whitesmoke;
+    width: 700px;
+    height: 500px
+}
+
+.nut-dlg-title {
+    margin: auto;
+    padding: 1px;
+    borderby: 1px outset;
+    background: #E5E4E2;
+    width: 700px;
+    text-align: center
+}
+
+.nut-link {
+    color: brown;
+    cursor: pointer;
+    padding:1px;
+}
+
+.nut-link:hover {
+    color:orangered;
+}
+
+.nut-table:before {
+    content: url("table.png");
+}
+
+.nut-form:before {
+    content: url("form.png");
+}
+
+.nut-find:before {
+    content: url("find.png");
+}
+
+.nut-left:before {
+    content: url("left.png");
+}
+
+.nut-right:before {
+    content: url("right.png");
+}
+
+.nut-new:before {
+    content: url("new.png");
+}
+
+.nut-save:before {
+    content: url("save.png");
+}
+
+.nut-cross:before {
+    content: url("cross.png");
+}
+
+.wf-bar {
+    width: 500px;
+    height: 20px;
+    background: lime;
+    cursor: pointer;
+}
+
+.wf-bar:hover {
+    borderby: 2px outset
+}
+
+.nut-svg-home {
+    content: url('home.svg')
+}
+
+.nut-svg-information {
+    content: url('information.svg')
+}
+
+.nut-svg-notification {
+    content: url('notification.svg')
+}
+
+.nut-svg-switcher {
+    content: url('switcher.svg')
+}
+
+.nut-img-folder {
+    content: url('folder.png')
+}
+
+.nut-onoff {
+    -webkit-appearance: none;
+    border-radius: 10px;
+    border: 1px inset;
+    width: 30px;
+    height: 10px;
+}
+
+.ico-workflow:before {
+    content: url("workflow.png");
+}
+.ico-report:before {
+    content: url("report.png");
+}
+.ico-sql:before {
+    content: url("sql.png");
+}
+.ico-analyst:before {
+    content: url("analyst.png");
+}
