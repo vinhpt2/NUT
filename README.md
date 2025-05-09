@@ -1,6 +1,6 @@
 <p>
 <h1><b>🌰NUT - Nocode Universal Tool</b> is a nocode platform, helps you to build business applications without coding.</h1>
-<img src='https://static.wixstatic.com/media/e5534e_d5b7a97b74a64a55a56f44be0a98d627~mv2.jpg'/>
+<img width='400px' src='https://static.wixstatic.com/media/e5534e_d5b7a97b74a64a55a56f44be0a98d627~mv2.jpg'/>
 <b>NUT</b> is the easiest way to create apps for your management works. With <b>NUT</b>, all app's components (like menu, window, workflow, report...) are  pre-built like Lego bricks and pieces. You just choose, drag-drop and config them to build apps.
 <ul><b>The <i>NUT</i> Tool includes:</b>
   <li><i>nForm</i>: Configurable  tool that creates from simple to complex app's input UI windows directly from customer's datasheet by select drag-drop corresponding tables and columns to the window layout.</li>
@@ -12,7 +12,7 @@
 </ul>
 </p>
 <h1><b>#️⃣SQLRestC</b> is a complete set of REST API for web enabled SQL Server.</h1>
-<img src='https://static.wixstatic.com/media/13a6c8_f860144587de42059d0527a60a2d3fc9~mv2.jpg'/>
+<img width='400px' src='https://static.wixstatic.com/media/13a6c8_f860144587de42059d0527a60a2d3fc9~mv2.jpg'/>
 <b>SQLRestC</b> is based on SQL Management Object (SMO) designed to allow for easy and simple programmatic management all aspects of Microsoft SQL Server.
 <ul><b>The <i>SQLRestC</i> API includes:</b>
   <li><i>Token API</i>: Authenticate and secure transmit data with SQL Server</li>
