@@ -1,3 +1,4 @@
+NUT v1.0 is retired now please visit NUT v2.0 https://github.com/vinhpt2/SQLRestC2
 <p>
 <h1><b>🌰NUT - Nocode Universal Tool</b> is a nocode platform, helps you to build business applications without coding.</h1>
 <img width='400px' src='https://static.wixstatic.com/media/e5534e_d5b7a97b74a64a55a56f44be0a98d627~mv2.jpg'/>
