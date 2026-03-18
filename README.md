@@ -1,6 +1,6 @@
-NUT v1.0 is retired now please visit NUT v2.0 https://github.com/vinhpt2/SQLRestC2
+<i>NUT v1.0 is retired now please visit NUT v2.0 https://github.com/vinhpt2/SQLRestC2</i>
 <p>
-<h1><b>🌰NUT - Nocode Universal Tool</b> is a nocode platform, helps you to build business applications without coding.</h1>
+<h1><b>🌰NUT v1.0 - Nocode Universal Tool</b> is a nocode platform, helps you to build business applications without coding.</h1>
 <img width='400px' src='https://static.wixstatic.com/media/e5534e_d5b7a97b74a64a55a56f44be0a98d627~mv2.jpg'/>
 <b>NUT</b> is the easiest way to create apps for your management works. With <b>NUT</b>, all app's components (like menu, window, workflow, report...) are  pre-built like Lego bricks and pieces. You just choose, drag-drop and config them to build apps.
 <ul><b>The <i>NUT</i> Tool includes:</b>
